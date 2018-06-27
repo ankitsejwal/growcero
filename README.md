@@ -11,3 +11,9 @@ send sms with add keyword
 send sms with delete keyword
 * delete milk
 * delete chips
+
+## Technologies used
+* Flask python framework
+* Twilio
+* HTML/CSS
+* Bootstrap
